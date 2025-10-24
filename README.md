@@ -31,6 +31,7 @@
 ### Other Knowledge:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Doxygen](https://img.shields.io/badge/-Doxygen-0D1117?style=for-the-badge&logo=doxygen&logoColor=2C4488&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Code::Blocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=codeblocks&logoColor=41AD48&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117&textColor=0D1117)&nbsp;
