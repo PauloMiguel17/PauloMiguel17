@@ -35,9 +35,8 @@
 ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white)&nbsp;
   
 ### Studying in this moment:
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PauloMiguel17}/count.svg" /></p> 
