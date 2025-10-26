@@ -16,26 +16,27 @@
 
  
 ### Main skills:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-0D1117?style=for-the-badge&logo=githubdesktop&logoColor=80227B&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-80227B?style=for-the-badge&logo=githubdesktop&logoColor=white)&nbsp;
+![Doxygen](https://img.shields.io/badge/Doxygen-2C4488?style=for-the-badge&logo=doxygen&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Doxygen](https://img.shields.io/badge/-Doxygen-0D1117?style=for-the-badge&logo=doxygen&logoColor=2C4488&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Code::Blocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=codeblocks&logoColor=41AD48&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white)&nbsp;
   
 ### Studying in this moment:
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
