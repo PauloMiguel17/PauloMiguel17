@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMiguel17&layout=compact&theme=vision-ff-light)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paulo+Miguel+Paes;I+study+Computer+Science+at+UnB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
